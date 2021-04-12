@@ -2,7 +2,7 @@
 # binutils-2.14.sh by Francisco Javier Trujillo Mata (fjtrujy@gmail.com)
 
 ## Download the source code.
-REPO_URL="https://github.com/ps2dev/binutils-gdb.git"
+REPO_URL="https://github.com/SpiceDev/binutils-gdb.git"
 REPO_FOLDER="binutils-gdb"
 BRANCH_NAME="iop-v2.14"
 if test ! -d "$REPO_FOLDER"; then
